@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="screenshots/architecture.png">
-</p>
-
 # Healthcare Readmission Analytics Lakehouse
 
 ## Descripción del Proyecto
